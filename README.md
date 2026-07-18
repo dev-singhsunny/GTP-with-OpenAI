@@ -1,1 +1,1 @@
-# SigmaGTP-with-OpenAI
+# GTP-with-OpenAI
